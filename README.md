@@ -10,7 +10,7 @@ What It Does?
 
 🚨 Automatically alerts teachers/parents of low-performing students via Twilio (WhatsApp/SMS) or Slack
 
-tools Used
+Tools Used
 
 n8n – Workflow automation
 
